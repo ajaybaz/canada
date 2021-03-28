@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Country on Canada</title>
+    <link>http://example.org/tags/country/</link>
+    <description>Recent content in Country on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 09:36:50 +0530</lastBuildDate><atom:link href="http://example.org/tags/country/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4</title>
+      <link>http://example.org/posts/4/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:50 +0530</pubDate>
+      
+      <guid>http://example.org/posts/4/</guid>
+      <description>sub-Heading How hollywood got piano stores all wrong. How top country songs can make you sick. Unbelievable jazz coffee bar success stories. How to cheat at best rock songs and get away with it. What experts are saying about music videos.</description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://example.org/posts/2/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:40 +0530</pubDate>
+      
+      <guid>http://example.org/posts/2/</guid>
+      <description>Ways your mother lied to you about piano stores. 18 things that won&amp;rsquo;t happen in hot songs. 18 problems with billboard alternatives. Why you&amp;rsquo;ll never succeed at music videos. 20 amazing country song ringtone pictures. What experts are saying about popular songs.</description>
+    </item>
+    
+  </channel>
+</rss>

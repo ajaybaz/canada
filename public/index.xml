@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is Test Site for testing page of index  on Canada</title>
+    <link>http://example.org/</link>
+    <description>Recent content in This is Test Site for testing page of index  on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 11:29:55 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 28 Mar 2021 10:47:51 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section</title>
+      <link>http://example.org/sections/</link>
+      <pubDate>Sun, 28 Mar 2021 10:44:24 +0530</pubDate>
+      
+      <guid>http://example.org/sections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sun, 28 Mar 2021 10:31:00 +0530</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>This is md page</description>
+    </item>
+    
+    <item>
+      <title>Features of Ramium</title>
+      <link>http://example.org/introduction-to-ramium/2.-features-of-ramium/</link>
+      <pubDate>Sat, 27 Mar 2021 17:18:15 +0530</pubDate>
+      
+      <guid>http://example.org/introduction-to-ramium/2.-features-of-ramium/</guid>
+      <description>&lt;p&gt;Ramium is Packed with awesome features that makes your blog powerful and easy to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Ramium</title>
+      <link>http://example.org/introduction-to-ramium/1.-about-ramium/</link>
+      <pubDate>Sat, 27 Mar 2021 17:17:55 +0530</pubDate>
+      
+      <guid>http://example.org/introduction-to-ramium/1.-about-ramium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>http://example.org/getting-started-with-ramium/1.-tutorial/</link>
+      <pubDate>Sat, 27 Mar 2021 17:16:17 +0530</pubDate>
+      
+      <guid>http://example.org/getting-started-with-ramium/1.-tutorial/</guid>
+      <description>Full tutorial coming soon! </description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>http://example.org/posts/8/</link>
+      <pubDate>Sat, 27 Mar 2021 12:13:37 +0530</pubDate>
+      
+      <guid>http://example.org/posts/8/</guid>
+      <description>Why music scores are killing you. 11 ways concert tickets can find you the love of your life. Why the world would end without music festivals. How free songs can help you predict the future. What everyone is saying about free dances.</description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>http://example.org/posts/7/</link>
+      <pubDate>Sat, 27 Mar 2021 12:13:32 +0530</pubDate>
+      
+      <guid>http://example.org/posts/7/</guid>
+      <description>Why music scores are killing you. 11 ways concert tickets can find you the love of your life. Why the world would end without music festivals. How free songs can help you predict the future. What everyone is saying about free dances.</description>
+    </item>
+    
+    <item>
+      <title>Author</title>
+      <link>http://example.org/author/</link>
+      <pubDate>Sat, 27 Mar 2021 10:56:46 +0530</pubDate>
+      
+      <guid>http://example.org/author/</guid>
+      <description>I am Puneet Arora Chandigarh. And I can confirm that this is the best theme ever!</description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>http://example.org/posts/5/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:55 +0530</pubDate>
+      
+      <guid>http://example.org/posts/5/</guid>
+      <description>Why our world would end if hot songs disappeared. The 10 biggest music video blunders. How music apps made me a better person. How latin instruments can help you live a better life. What the beatles could learn from free dances.</description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>http://example.org/posts/4/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:50 +0530</pubDate>
+      
+      <guid>http://example.org/posts/4/</guid>
+      <description>sub-Heading How hollywood got piano stores all wrong. How top country songs can make you sick. Unbelievable jazz coffee bar success stories. How to cheat at best rock songs and get away with it. What experts are saying about music videos.</description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>http://example.org/posts/3/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:46 +0530</pubDate>
+      
+      <guid>http://example.org/posts/3/</guid>
+      <description>How to start using hot songs. Why billboard music awards are the new black. What the world would be like if top new songs didn&amp;rsquo;t exist. The best ways to utilize rock bands. How free dances make you a better lover.</description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://example.org/posts/2/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:40 +0530</pubDate>
+      
+      <guid>http://example.org/posts/2/</guid>
+      <description>Ways your mother lied to you about piano stores. 18 things that won&amp;rsquo;t happen in hot songs. 18 problems with billboard alternatives. Why you&amp;rsquo;ll never succeed at music videos. 20 amazing country song ringtone pictures. What experts are saying about popular songs.</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>http://example.org/posts/1/</link>
+      <pubDate>Sat, 27 Mar 2021 09:25:44 +0530</pubDate>
+      
+      <guid>http://example.org/posts/1/</guid>
+      <description>The 9 best resources for music apps. The best ways to utilize live shows. What the beatles could learn from top new songs. 5 amazing free song pictures. 10 myths uncovered about music festivals. Why the next 10 years of free dances will smash the last 10.</description>
+    </item>
+    
+  </channel>
+</rss>

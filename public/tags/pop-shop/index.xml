@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop Shop on Canada</title>
+    <link>http://example.org/tags/pop-shop/</link>
+    <description>Recent content in Pop Shop on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 09:25:44 +0530</lastBuildDate><atom:link href="http://example.org/tags/pop-shop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>http://example.org/posts/1/</link>
+      <pubDate>Sat, 27 Mar 2021 09:25:44 +0530</pubDate>
+      
+      <guid>http://example.org/posts/1/</guid>
+      <description>The 9 best resources for music apps. The best ways to utilize live shows. What the beatles could learn from top new songs. 5 amazing free song pictures. 10 myths uncovered about music festivals. Why the next 10 years of free dances will smash the last 10.</description>
+    </item>
+    
+  </channel>
+</rss>

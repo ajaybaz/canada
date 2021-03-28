@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction-to-ramium on Canada</title>
+    <link>http://example.org/introduction-to-ramium/</link>
+    <description>Recent content in Introduction-to-ramium on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 17:18:15 +0530</lastBuildDate><atom:link href="http://example.org/introduction-to-ramium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features of Ramium</title>
+      <link>http://example.org/introduction-to-ramium/2.-features-of-ramium/</link>
+      <pubDate>Sat, 27 Mar 2021 17:18:15 +0530</pubDate>
+      
+      <guid>http://example.org/introduction-to-ramium/2.-features-of-ramium/</guid>
+      <description>&lt;p&gt;Ramium is Packed with awesome features that makes your blog powerful and easy to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Ramium</title>
+      <link>http://example.org/introduction-to-ramium/1.-about-ramium/</link>
+      <pubDate>Sat, 27 Mar 2021 17:17:55 +0530</pubDate>
+      
+      <guid>http://example.org/introduction-to-ramium/1.-about-ramium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

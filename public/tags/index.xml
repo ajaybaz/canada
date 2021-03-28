@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Canada</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 09:36:55 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dance</title>
+      <link>http://example.org/tags/dance/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:55 +0530</pubDate>
+      
+      <guid>http://example.org/tags/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Songs</title>
+      <link>http://example.org/tags/hot-songs/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:55 +0530</pubDate>
+      
+      <guid>http://example.org/tags/hot-songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/tags/music/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:55 +0530</pubDate>
+      
+      <guid>http://example.org/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Country</title>
+      <link>http://example.org/tags/country/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:50 +0530</pubDate>
+      
+      <guid>http://example.org/tags/country/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latin</title>
+      <link>http://example.org/tags/latin/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:50 +0530</pubDate>
+      
+      <guid>http://example.org/tags/latin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festivals</title>
+      <link>http://example.org/tags/festivals/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:46 +0530</pubDate>
+      
+      <guid>http://example.org/tags/festivals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Billboard</title>
+      <link>http://example.org/tags/billboard/</link>
+      <pubDate>Sat, 27 Mar 2021 09:36:40 +0530</pubDate>
+      
+      <guid>http://example.org/tags/billboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Shop</title>
+      <link>http://example.org/tags/pop-shop/</link>
+      <pubDate>Sat, 27 Mar 2021 09:25:44 +0530</pubDate>
+      
+      <guid>http://example.org/tags/pop-shop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addons on Canada</title>
+    <link>http://example.org/addons/</link>
+    <description>Recent content in Addons on Canada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Mar 2021 10:47:51 +0530</lastBuildDate><atom:link href="http://example.org/addons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 28 Mar 2021 10:47:51 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Section</title>
+      <link>http://example.org/sections/</link>
+      <pubDate>Sun, 28 Mar 2021 10:44:24 +0530</pubDate>
+      
+      <guid>http://example.org/sections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sun, 28 Mar 2021 10:31:00 +0530</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>This is md page</description>
+    </item>
+    
+    <item>
+      <title>Author</title>
+      <link>http://example.org/author/</link>
+      <pubDate>Sat, 27 Mar 2021 10:56:46 +0530</pubDate>
+      
+      <guid>http://example.org/author/</guid>
+      <description>I am Puneet Arora Chandigarh. And I can confirm that this is the best theme ever!</description>
+    </item>
+    
+  </channel>
+</rss>
